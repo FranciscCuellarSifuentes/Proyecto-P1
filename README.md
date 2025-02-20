@@ -11,8 +11,8 @@ En el proyecto que se desarrollará a continuación se buscará identificar si, 
 
 Índice:
 
-[Vista Previa](./A1.6_Regresión_no_lineal.html)
+[Vista Previa](./P P1 598303.html)
 
-[Codigo.jpynb](./A1.6_Regresión_no_lineal.ipynb)
+[Codigo.jpynb](./P P1 598303.ipynb)
 
-[Base de Datos](./)
+[Base de Datos](./Life_Expectancy_Data.xls)
